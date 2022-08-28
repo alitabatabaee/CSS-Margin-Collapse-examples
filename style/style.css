@@ -1,0 +1,10 @@
+.first{
+    height: 80px;
+    background-color: yellowgreen;
+    margin: 20px 0;
+}
+.second{
+    height: 80px;
+    background-color: darkgreen;
+    margin: 10px 0;
+}
